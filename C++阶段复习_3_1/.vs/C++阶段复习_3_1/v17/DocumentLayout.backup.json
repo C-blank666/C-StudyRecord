@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF3C2F0-6A43-406C-97D0-31737155DD25}|C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1.vcxproj|G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CF3C2F0-6A43-406C-97D0-31737155DD25}|C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1.vcxproj|solutionrelative:C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "node.cpp",
+              "DocumentMoniker": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\node.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\node.cpp",
+              "ToolTip": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\node.cpp",
+              "RelativeToolTip": "C\u002B\u002B\u9636\u6BB5\u590D\u4E60_3_1\\node.cpp",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T08:19:55.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

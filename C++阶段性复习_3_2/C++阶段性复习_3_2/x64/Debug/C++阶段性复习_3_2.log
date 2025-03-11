@@ -1,0 +1,31 @@
+﻿  内存管理.cpp
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(104,11): warning C4244: “return”: 从“T”转换到“int”，可能丢失数据
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(104,11): warning C4244:         with
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(104,11): warning C4244:         [
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(104,11): warning C4244:             T=double
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(104,11): warning C4244:         ]
+      G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(104,11):
+      模板实例化上下文(最早的实例化上下文)为
+          G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(115,2):
+          查看对正在编译的函数 模板 实例化“int Add<double>(const T &,const T &)”的引用
+          with
+          [
+              T=double
+          ]
+  
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(108,11): warning C4244: “return”: 从“T2”转换到“int”，可能丢失数据
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(108,11): warning C4244:         with
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(108,11): warning C4244:         [
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(108,11): warning C4244:             T2=double
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(108,11): warning C4244:         ]
+      G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(108,11):
+      模板实例化上下文(最早的实例化上下文)为
+          G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\C++阶段性复习_3_2\内存管理.cpp(117,2):
+          查看对正在编译的函数 模板 实例化“int Add<int,double>(const T1 &,const T2 &)”的引用
+          with
+          [
+              T1=int,
+              T2=double
+          ]
+  
+  C++阶段性复习_3_2.vcxproj -> G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\C++阶段性复习_3_2\x64\Debug\C++阶段性复习_3_2.exe

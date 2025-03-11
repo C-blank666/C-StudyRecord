@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{127A1414-75E0-4F5A-AA80-7C25383C8D9D}|\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0.vcxproj|G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{127A1414-75E0-4F5A-AA80-7C25383C8D9D}|\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0.vcxproj|solutionrelative:\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127A1414-75E0-4F5A-AA80-7C25383C8D9D}|\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0.vcxproj|G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{127A1414-75E0-4F5A-AA80-7C25383C8D9D}|\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0.vcxproj|solutionrelative:\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127A1414-75E0-4F5A-AA80-7C25383C8D9D}|\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0.vcxproj|G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{127A1414-75E0-4F5A-AA80-7C25383C8D9D}|\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0.vcxproj|solutionrelative:\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queue.h",
+              "DocumentMoniker": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\queue.h",
+              "RelativeDocumentMoniker": "\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\queue.h",
+              "ToolTip": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\queue.h",
+              "RelativeToolTip": "\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\queue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T08:03:22.405Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\test.cpp",
+              "RelativeDocumentMoniker": "\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\test.cpp",
+              "ToolTip": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\test.cpp",
+              "RelativeToolTip": "\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\test.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T08:03:37.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stack.h",
+              "DocumentMoniker": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\stack.h",
+              "RelativeDocumentMoniker": "\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\stack.h",
+              "ToolTip": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\stack.h",
+              "RelativeToolTip": "\u7AD9\u548C\u961F\u5217\u7684\u6A21\u62DF\u5B9E\u73B0\\stack.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T08:03:14.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

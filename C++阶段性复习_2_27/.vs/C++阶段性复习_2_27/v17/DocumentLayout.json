@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70F8998B-D346-4ECE-8CB3-F7BBA0268968}|C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27.vcxproj|G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70F8998B-D346-4ECE-8CB3-F7BBA0268968}|C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27.vcxproj|solutionrelative:C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\FileName.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\FileName.cpp",
+              "ToolTip": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\FileName.cpp",
+              "RelativeToolTip": "C\u002B\u002B\u9636\u6BB5\u6027\u590D\u4E60_2_27\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T12:31:00.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

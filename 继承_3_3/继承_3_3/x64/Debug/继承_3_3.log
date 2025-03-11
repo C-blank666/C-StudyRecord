@@ -1,0 +1,12 @@
+﻿  继承.cpp
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\继承_3_3\继承_3_3\继承.cpp(127,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+      G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\继承_3_3\继承_3_3\继承.cpp(127,25):
+      模板实例化上下文(最早的实例化上下文)为
+          G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\继承_3_3\继承_3_3\继承.cpp(132,16):
+          查看对正在编译的 类 模板 实例化“My_Stack<int>”的引用
+          G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\继承_3_3\继承_3_3\继承.cpp(126,6):
+          在编译 类 模板 成员函数“int My_Stack<int>::size(void)”时
+              G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\继承_3_3\继承_3_3\继承.cpp(137,2):
+              请参阅 "test02" 中对 "My_Stack<int>::size" 的第一个引用
+  
+  继承_3_3.vcxproj -> G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\继承_3_3\x64\Debug\继承_3_3.exe

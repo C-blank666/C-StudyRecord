@@ -1,0 +1,3 @@
+﻿  oj.cpp
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\oj在线\oj在线\oj.cpp(72,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  oj在线.vcxproj -> G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\oj在线\x64\Debug\oj在线.exe

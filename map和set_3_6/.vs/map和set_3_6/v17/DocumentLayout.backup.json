@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\map\u548Cset_3_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD96058-39A0-419E-9EBF-D3B5733F380E}|map\u548Cset_3_6\\map\u548Cset_3_6.vcxproj|C:\\Users\\ASUS\\source\\repos\\map\u548Cset_3_6\\map\u548Cset_3_6\\mep\u548Cset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AD96058-39A0-419E-9EBF-D3B5733F380E}|map\u548Cset_3_6\\map\u548Cset_3_6.vcxproj|solutionrelative:map\u548Cset_3_6\\mep\u548Cset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD96058-39A0-419E-9EBF-D3B5733F380E}|map\u548Cset_3_6\\map\u548Cset_3_6.vcxproj|C:\\Users\\ASUS\\source\\repos\\map\u548Cset_3_6\\map\u548Cset_3_6\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AD96058-39A0-419E-9EBF-D3B5733F380E}|map\u548Cset_3_6\\map\u548Cset_3_6.vcxproj|solutionrelative:map\u548Cset_3_6\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\map\u548Cset_3_6\\map\u548Cset_3_6\\test.cpp",
+              "RelativeDocumentMoniker": "map\u548Cset_3_6\\test.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\map\u548Cset_3_6\\map\u548Cset_3_6\\test.cpp",
+              "RelativeToolTip": "map\u548Cset_3_6\\test.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T12:48:57.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mep\u548Cset.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\map\u548Cset_3_6\\map\u548Cset_3_6\\mep\u548Cset.cpp",
+              "RelativeDocumentMoniker": "map\u548Cset_3_6\\mep\u548Cset.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\map\u548Cset_3_6\\map\u548Cset_3_6\\mep\u548Cset.cpp",
+              "RelativeToolTip": "map\u548Cset_3_6\\mep\u548Cset.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T06:18:33.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
