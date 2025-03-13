@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\OJ\u7EC3\u4E60-3_12\\",
+  "WorkspaceRootPath": "G:\\GitHupWarehouse\\C-StudyRecord\\OJ\u7EC3\u4E60-3_12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD3D2F61-D5DD-408E-9820-3BDEB0285070}|OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12.vcxproj|G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\oj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FD3D2F61-D5DD-408E-9820-3BDEB0285070}|OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12.vcxproj|G:\\GitHupWarehouse\\C-StudyRecord\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\oj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FD3D2F61-D5DD-408E-9820-3BDEB0285070}|OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12.vcxproj|solutionrelative:OJ\u7EC3\u4E60-3_12\\oj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD3D2F61-D5DD-408E-9820-3BDEB0285070}|OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12.vcxproj|G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FD3D2F61-D5DD-408E-9820-3BDEB0285070}|OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12.vcxproj|G:\\GitHupWarehouse\\C-StudyRecord\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FD3D2F61-D5DD-408E-9820-3BDEB0285070}|OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12.vcxproj|solutionrelative:OJ\u7EC3\u4E60-3_12\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,19 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "test.cpp",
-              "DocumentMoniker": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\test.cpp",
+              "DocumentMoniker": "G:\\GitHupWarehouse\\C-StudyRecord\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\test.cpp",
               "RelativeDocumentMoniker": "OJ\u7EC3\u4E60-3_12\\test.cpp",
-              "ToolTip": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\test.cpp",
+              "ToolTip": "G:\\GitHupWarehouse\\C-StudyRecord\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\test.cpp",
               "RelativeToolTip": "OJ\u7EC3\u4E60-3_12\\test.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -40,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "oj.cpp",
-              "DocumentMoniker": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\oj.cpp",
+              "DocumentMoniker": "G:\\GitHupWarehouse\\C-StudyRecord\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\oj.cpp",
               "RelativeDocumentMoniker": "OJ\u7EC3\u4E60-3_12\\oj.cpp",
-              "ToolTip": "G:\\GiteeWarehouse\\Gitee\u4ED3\u5E93\\CPP-learing-record-2\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\oj.cpp",
+              "ToolTip": "G:\\GitHupWarehouse\\C-StudyRecord\\OJ\u7EC3\u4E60-3_12\\OJ\u7EC3\u4E60-3_12\\oj.cpp",
               "RelativeToolTip": "OJ\u7EC3\u4E60-3_12\\oj.cpp",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAiwO4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-12T12:30:42.483Z",
               "EditorCaption": ""
