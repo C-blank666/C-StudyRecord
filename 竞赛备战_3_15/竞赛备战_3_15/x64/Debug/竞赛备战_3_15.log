@@ -1,0 +1,12 @@
+﻿  竞赛备战_3_15.cpp
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\竞赛备战_3_15\竞赛备战_3_15.cpp(13,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\竞赛备战_3_15\竞赛备战_3_15.cpp(33,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\竞赛备战_3_15\竞赛备战_3_15.cpp(50,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\竞赛备战_3_15\竞赛备战_3_15.cpp(51,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\竞赛备战_3_15\竞赛备战_3_15.cpp(70,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\竞赛备战_3_15\竞赛备战_3_15.cpp(99,17): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\竞赛备战_3_15\竞赛备战_3_15.cpp(99,17): warning C4244:         with
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\竞赛备战_3_15\竞赛备战_3_15.cpp(99,17): warning C4244:         [
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\竞赛备战_3_15\竞赛备战_3_15.cpp(99,17): warning C4244:             _Ty=__int64
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\竞赛备战_3_15\竞赛备战_3_15.cpp(99,17): warning C4244:         ]
+  竞赛备战_3_15.vcxproj -> G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_15\x64\Debug\竞赛备战_3_15.exe
