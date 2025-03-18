@@ -1,0 +1,4 @@
+﻿  竞赛备战_3_18.cpp
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_18\竞赛备战_3_18\竞赛备战_3_18.cpp(117,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_18\竞赛备战_3_18\竞赛备战_3_18.cpp(169,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  竞赛备战_3_18.vcxproj -> G:\GiteeWarehouse\Gitee仓库\CPP-learing-record-2\竞赛备战_3_18\x64\Debug\竞赛备战_3_18.exe
